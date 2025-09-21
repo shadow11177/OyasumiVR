@@ -424,7 +424,7 @@
           },
           "reasons": {
             "HOTKEY": "Da ein Hotkey gedrückt wurde",
-            "MANUAL": "Manuell eingeschaltet",
+            "MANUAL": "Manuell ausgelöst",
             "OYASUMI_START": "Da OyasumiVR gestartet ist",
             "SLEEP_MODE_DISABLED": "Da der Schlafmodus ausgeschaltet war",
             "STEAMVR_START": "Da SteamVR gestartet ist",
